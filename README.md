@@ -11,7 +11,7 @@
 
 # vigilsys
 
-**vigilsys** is an advanced Cyber Threat Intelligence tool. Its purpose is to gather, analyze, and present data from various threat sources to enhance the digital security of organizations and individuals. **vigilsys** provides a powerful toolset to combat complex and rapidly evolving cyber threats.
+**vigilsys**  is a system monitoring tool developed using the Go programming language. **vigilsys** is designed to monitor the overall performance of a computer or server, track resource usage, and visualize the system's status.
 
 ---
 
