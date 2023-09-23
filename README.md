@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./assets/images/logo.png" width="450">
+    <img src="./assets/images/gopher.png" width="350">
 </p>
 
 ![Version](https://img.shields.io/badge/version-0.0.0-orange.svg)
